@@ -12,6 +12,7 @@
         "paths": [
           "/myCustomPattern123/",
           "/track*",
+          "/resetPassword/",
           "/",
           "/#!/",
           "*/orderProcess/",
