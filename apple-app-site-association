@@ -10,9 +10,9 @@
       {
         "appID": "4C6B2867MN.com.panerabread.mobile.inhouse.qa",
         "paths": [
+          "/resetPassword/",
           "/myCustomPattern123/",
           "/track*",
-          "/resetPassword/",
           "/",
           "/#!/",
           "*/orderProcess/",
