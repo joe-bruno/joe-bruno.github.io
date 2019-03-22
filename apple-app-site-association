@@ -15,7 +15,7 @@
         "appID": "4C6B2867MN.com.panerabread.mobile.minneapolis",
         "paths": [
           "/track*",
-          "/resetPassword/",
+          "/resetPassword/*",
           "/",
           "/#!/",
           "*/orderProcess/",
@@ -31,7 +31,7 @@
         "appID": "4C6B2867MN.com.panerabread.mobile.preproduction",
         "paths": [
           "/track*",
-          "/resetPassword/",
+          "/resetPassword/*",
           "/",
           "/#!/",
           "*/orderProcess/",
@@ -47,7 +47,7 @@
         "appID": "4C6B2867MN.com.panerabread.mobile.inhouse.qa",
         "paths": [
           "/track*",
-          "/resetPassword/",
+          "/resetPassword/*",
           "/",
           "/#!/",
           "*/orderProcess/",
@@ -63,7 +63,7 @@
         "appID": "4C6B2867MN.com.panerabread.mobile.inhouse.qahotfix",
         "paths": [
           "/track*",
-          "/resetPassword/",
+          "/resetPassword/*",
           "/",
           "/#!/",
           "*/orderProcess/",
@@ -79,7 +79,7 @@
         "appID": "4C6B2867MN.com.panerabread.mobile.inhouse.qarc3",
         "paths": [
           "/track*",
-          "/resetPassword/",
+          "/resetPassword/*",
           "/",
           "/#!/",
           "*/orderProcess/",
