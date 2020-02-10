@@ -1,0 +1,51 @@
+{
+  "webcredentials": {
+    "apps": [
+      "4C6B2867MN.com.panerabread.mobile.minneapolis",
+      "4C6B2867MN.com.panerabread.mobile.preproduction",
+      "4C6B2867MN.com.panerabread.mobile.inhouse.qa",
+      "4C6B2867MN.com.panerabread.mobile.inhouse.qahotfix",
+      "4C6B2867MN.com.panerabread.mobile.inhouse.qarc3"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4C6B2867MN.com.panerabread.mobile.minneapolis",
+        "paths": [
+          "/en-us/mypanera/mypanera-coffee-subscription",
+          "/en-us/app/subscription/management"
+        ]
+      },
+      {
+        "appID": "4C6B2867MN.com.panerabread.mobile.preproduction",
+        "paths": [
+          "/en-us/mypanera/mypanera-coffee-subscription",
+          "/en-us/app/subscription/management"
+        ]
+      },
+      {
+        "appID": "4C6B2867MN.com.panerabread.mobile.inhouse.qa",
+        "paths": [
+          "/en-us/mypanera/mypanera-coffee-subscription",
+          "/en-us/app/subscription/management"
+        ]
+      },
+      {
+        "appID": "4C6B2867MN.com.panerabread.mobile.inhouse.qahotfix",
+        "paths": [
+          "/en-us/mypanera/mypanera-coffee-subscription",
+          "/en-us/app/subscription/management"
+        ]
+      },
+      {
+        "appID": "4C6B2867MN.com.panerabread.mobile.inhouse.qarc3",
+        "paths": [
+          "/en-us/mypanera/mypanera-coffee-subscription",
+          "/en-us/app/subscription/management"
+        ]
+      }
+    ]
+  }
+}
